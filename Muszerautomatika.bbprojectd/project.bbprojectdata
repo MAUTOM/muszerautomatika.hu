@@ -8,6 +8,7 @@
 		<string>6F507930-83D6-4C35-89EB-1CCFAC50DF68</string>
 		<string>9557E49A-ED69-450E-AC38-92533FC6ACAF</string>
 		<string>18C53CB8-B659-47E4-947C-5F52D7200D48</string>
+		<string>F1D14E3B-E457-48D3-9AEC-93397498FD91</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -196,6 +197,53 @@
 			<string>_static</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
+		</dict>
+		<key>F1D14E3B-E457-48D3-9AEC-93397498FD91</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va0gDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAXAIAAAUAAAABAQAAVXNlcnMA
+				AAAFAAAAAQEAAFNpdGVzAAAAEwAAAAEBAABtdXN6ZXJh
+				dXRvbWF0aWthLmh1AAwAAAABAQAAd2VsY29tZS5odG1s
+				EAAAAAEGAAAEAAAAFAAAACQAAABAAAAACAAAAAQDAAAl
+				ZwIAAAAAAAgAAAAEAwAApRwYAAAAAAAIAAAABAMAAOgv
+				GAAAAAAACAAAAAQDAAD8AxsAAAAAABAAAAABBgAAbAAA
+				AHwAAACMAAAAnAAAAAgAAAAABAAAQbl9YZsAAAAYAAAA
+				AQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAB
+				BQAABAAAAAMDAAABAAAADAAAAAEBAABNYWNpbnRvc2gg
+				SEQIAAAABAMAAAAgiD06AAAACAAAAAAEAABBuR5AOwAA
+				ACQAAAABAQAAQzA1MEFEM0QtMDZGNS0zQjgxLUIzNDct
+				OTcwNDUzNDVENDlFGAAAAAECAACBAAAAAQAIAO8XAAAB
+				AAgAAAAAAAAAAAABAAAAAQEAAC8AAAC+AAAAAQIAADJi
+				OTQ5MzNhZGY0NmUzMGI1MTk1ZjA2OWFmOGU0NTJmYjMz
+				NzIyZjI7MDAwMDAwMDA7MDAwMDAwMDA7MDAwMDAwMDAw
+				MDAwMDAyMDtjb20uYXBwbGUuYXBwLXNhbmRib3gucmVh
+				ZC13cml0ZTswMDAwMDAwMTswMTAwMDAwMjswMDAwMDAw
+				MDAwMWIwM2ZjOy91c2Vycy9zaXRlcy9tdXN6ZXJhdXRv
+				bWF0aWthLmh1L3dlbGNvbWUuaHRtbAAAALQAAAD+////
+				AQAAAAAAAAAOAAAABBAAAFQAAAAAAAAABRAAAKwAAAAA
+				AAAAEBAAANQAAAAAAAAAQBAAAMQAAAAAAAAAVRAAAPwA
+				AAAAAAAAVhAAAPQAAAAAAAAAAiAAAIgBAAAAAAAAECAA
+				AAgBAAAAAAAAESAAADwBAAAAAAAAEiAAABwBAAAAAAAA
+				EyAAACwBAAAAAAAAICAAAGgBAAAAAAAAMCAAAPQAAAAA
+				AAAAgPAAAJQBAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/Sites/muszerautomatika.hu/welcome.html</string>
+				<key>RelativePath</key>
+				<string>./welcome.html</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>welcome.html</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
 		</dict>
 	</dict>
 	<key>com.barebones.DocumentFormatVersion</key>

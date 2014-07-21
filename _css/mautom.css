@@ -1,0 +1,27 @@
+.headerText {
+    color: #f73737;
+    font: xx-large Copperplate;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    visibility: visible;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0;
+    padding: 0;
+    
+}
+
+div#header {
+    width: 100%;
+    height: 65%;
+    background: red;
+    display: inline-block;
+    visibility: visible;
+    margin-left: 0px;
+    padding: 65%;
+}
